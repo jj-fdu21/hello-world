@@ -11,4 +11,7 @@ int main(){
     
     //Hi. My name is Jeffrey
     cout << "I write code"
+        
+    //Hello, My Name is Michael
+    cout << "I play Violin"
 }
