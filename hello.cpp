@@ -17,4 +17,7 @@ int main(){
         
     // Hi my name is Lovepreet.
 	cout << " Hi my name is Lovepreet." << endl;
+	
+// Hi I am Emely
+	cout << "Today is Tuesday" << endl;
 }
