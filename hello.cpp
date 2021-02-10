@@ -14,4 +14,7 @@ int main(){
         
     //Hello, My Name is Michael
     cout << "I play Violin"
+        
+    // Hi my name is Lovepreet.
+	cout << " Hi my name is Lovepreet." << endl;
 }
