@@ -8,4 +8,7 @@ int main(){
 
     //Hi my name is Robbie Nawrocki
     cout << "I play lacrosse";
+    
+    //Hi. My name is Jeffrey
+    cout << "I write code"
 }
